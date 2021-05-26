@@ -18,4 +18,4 @@ Con saturday e sunday il risultato finale della matrice creata sarà:
 
 ![](https://www.elemarjr.com/wp-content/uploads/2018/03/sunday_saturday.png)
 
-Il numero evidenziato sono il numero di modifiche minime tra le 2 parole
+Il numero evidenziato è il numero di modifiche minime tra le 2 parole
